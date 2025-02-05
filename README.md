@@ -1,7 +1,7 @@
 
 
 
-![My card name](https://cardivo.vercel.app/api?name=MUHAMMED%20SWALIH%20&description=Hi%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/182201415?v=4/u/181054395?s=400&u=3fe0002c2b04eef0c954979f585cd1973b6da0ed&v=4=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%2336454F&instagram=salihhh_._&github=swalih-mhd&)
+![My card name](https://cardivo.vercel.app/api?name=MUHAMMED%20SWALIH%20&description=Hi%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/182201415?v=4/u/181054395?s=400&u=3fe0002c2b04eef0c954979f585cd1973b6da0ed&v=4=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%2336454F&fontColor=%white&instagram=salihhh_._&github=swalih-mhd&)
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Prajeesh-A&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
