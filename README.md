@@ -1,7 +1,8 @@
 
 
 
-![My card name](https://cardivo.vercel.app/api?name=MUHAMMED%20SWALIH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/182201415?v=4/u/181054395?s=400&u=3fe0002c2b04eef0c954979f585cd1973b6da0ed&v=4=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%2336454F&fontColor=%white&instagram=salihhh_._&github=swalih-mhd&)
+![My card name](https://cardivo.vercel.app/api?name=MUHAMMED%20SWALIH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/182201415?v=4&backgroundColor=%2336454F&fontColor=white&instagram=salihhh_._&linkedin=muhammed-swalih-kp-7a74b432a)
+
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Prajeesh-A&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
@@ -18,7 +19,8 @@
 
 # 💻 Tech Stack:
 
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" /> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)  ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-%2365C0F5.svg?style=for-the-badge&logo=Gradio&logoColor=white)  
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -46,5 +48,9 @@
   
   <br/><br/><br/>
 </div>
+
+# 📞 Contact Me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salihhh_._)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-swalih-kp-7a74b432a)     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)     [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/swalihmuhammed)     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdswalih404@gmail.com)  
 
 
