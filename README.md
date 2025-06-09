@@ -8,16 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Prajeesh-A&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
 </br>
 
-<p align="center">
-  I am a diploma student in AI, ML, and Data Engineering at Learn Logic AI. Proficient in Python, Pandas, NumPy, and machine learning, I am passionate about exploring new technologies. Eager to apply my skills and grow in the AI/ML field, I thrive in collaborative environments 
 
-</p>
-
-
-
-
-
-# 💻 Tech Stack:
 
 <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-%2365C0F5.svg?style=for-the-badge&logo=Gradio&logoColor=white)  
