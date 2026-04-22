@@ -1,7 +1,4 @@
-
-
-
-![My card name](https://cardivo.vercel.app/api?name=MUHAMMED%20SWALIH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/182201415?v=4&backgroundColor=%2336454F&fontColor=white&instagram=salihhh_._&linkedin=swalih-kp)
+![My card name](https://cardivo.vercel.app/api?name=MUHAMMED%20SWALIH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/182201415?v=4&backgroundColor=%23000000&fontColor=%23FFD700&instagram=salihhh_._&linkedin=swalih-kp&iconColor=%23FFFFFF)
 
 </p>
 </p>
@@ -24,19 +21,12 @@
   </div>
   
 
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-
 # 📞 Contact Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salihhh_._)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swalih-kp)     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter-handle](https://x.com/swalih_muh404))     [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/swalihmuhammed)     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdswalih404@gmail.com)  
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salihhh_._)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swalih-kp)     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter-handle](https://x.com/swalih_muh404))     [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/swalihmuhammed)     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdswalih404@gmail.com)
