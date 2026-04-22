@@ -2,31 +2,93 @@
 
 </p>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Prajeesh-A&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=swalih-mhd&label=Profile%20Views&color=FFD700&style=flat" />
+</p>
 </br>
 
+<!-- ================= STACK ================= -->
 
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 
-<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-%2365C0F5.svg?style=for-the-badge&logo=Gradio&logoColor=white)  
+<p align="center">
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=swalih-mhd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=swalih-mhd&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=swalih-mhd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-  </div>
+<!-- Core Development -->
+<img src="https://skillicons.dev/icons?i=nodejs,react,express,postgres,python" height="50"/>
+
+</p>
+
+<p align="center">
+
+<!-- AI / Data -->
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=FFD700"/>
+
+</p>
+
+<p align="center">
+
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Gradio-000000?style=for-the-badge&logo=gradio&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=FFD700"/>
+
+</p>
+
+<p align="center">
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/PythonAnywhere-000000?style=for-the-badge&logo=python&logoColor=FFD700"/>
+
+</p>
+
+<!-- ================= STATS ================= -->
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<div align="center">
   
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=swalih-mhd&theme=highcontrast&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&border_radius=10"/>
+  
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=swalih-mhd&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_radius=10"/>
+  
+  <br><br>
+  
+  <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=swalih-mhd&layout=compact&theme=vision-friendly-dark&title_color=FFD700&text_color=FFFFFF&border_radius=10"/>
+  
+</div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ================= CONTACT ================= -->
 
-# 📞 Contact Me:
+<h2 align="center">📞 Let's Connect</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salihhh_._)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swalih-kp)     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter-handle](https://x.com/swalih_muh404))     [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/swalihmuhammed)     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdswalih404@gmail.com)
+<p align="center">
+
+<a href="https://www.instagram.com/salihhh_._">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700"/>
+</a>
+
+<a href="https://www.linkedin.com/in/swalih-kp">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+</a>
+
+<a href="https://x.com/swalih_muh404">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFD700"/>
+</a>
+
+<a href="https://www.kaggle.com/swalihmuhammed">
+  <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FFD700"/>
+</a>
+
+<a href="mailto:mhdswalih404@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
+</a>
+
+</p>
